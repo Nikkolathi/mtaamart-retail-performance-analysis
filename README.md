@@ -7,6 +7,8 @@
 ## 📊 Dashboard Preview
 
 ![MtaaMart Retail Performance Dashboard](./screenshots/mtaamart-dashboard.png)
+![MtaaMart Retail Performance Dashboard](./screenshots/second_dashboard.png)
+![MtaaMart Retail Performance Dashboard](./screenshots/last-insights.png)
 
 ## 📊 Project Overview
 
