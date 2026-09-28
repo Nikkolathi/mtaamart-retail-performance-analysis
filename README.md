@@ -3,7 +3,10 @@
 ### End-to-End Retail Sales, Profitability & Customer Analytics in Microsoft Excel
 
  A real-world retail analytics project transforming 8,000 transaction records into validated business insights, management recommendations and an executive dashboard.
- [ DASHBOARD SCREENSHOT ]
+
+## 📊 Dashboard Preview
+
+![MtaaMart Retail Performance Dashboard](./screenshots/mtaamart-dashboard.png)
 
 ## 📊 Project Overview
 
